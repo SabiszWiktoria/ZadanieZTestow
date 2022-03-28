@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tVE0trJgv+Eor2nLnY3sxs0IxbyNr34VIDRxOcv+c04NZdtieqpmhEMqXyrmX/iLa/t6L7qrDbLAeBDCPje3Lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wikiniki\\source\\repos\\Zadania\\Zadania\\Zadania.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wikiniki\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
